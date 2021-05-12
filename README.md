@@ -2,6 +2,9 @@
 
 web: https://presentaciomiki.neocities.org/
 
+![2021-05-12_11h38_23](https://user-images.githubusercontent.com/62452222/117994128-ae4f0a00-b316-11eb-9dbb-bc5966effcd4.png)
+
+
 ¡Ya voy! Buscamos la manera de que tu viaje sea más fácil, con la posibilidad de ver los horarios de colectivos, viajar en la comodidad de un auto hasta la posibilidad de conocer otras ciudades sin salir de casa.
 
 Caracteristicas
